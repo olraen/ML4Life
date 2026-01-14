@@ -2,47 +2,41 @@
 layout: default
 ---
 
+**👋 Welcome to our landing page for our biostatistics and machine learning courses.**
 
-Welcome to our landing page for week-long biostatistics and machine learning courses!
-
-- **For who?** For PhD students, researchers, university staff, and professionals from the life science industry in Sweden who analyze research data.
+- **For who?** For PhD students, researchers, university staff, and professionals in life sciences in Sweden who analyze research data.
 - **By whom?** By NBIS, SciLifeLab bioinformatics platform, Sweden.
 - **Where?** At Uppsala Biomedical Centre, Uppsala, Sweden.
 
 Currently, we run two courses, a basic one, Introduction to Biostatistics and Machine Learning, and more advanced one, Machine Learning for Life Sciences.
 
-## [Introduction to Biostatistics and Machine Learning](biostats1.html)
+## [Statistical Methods for Life Sciences](course-STATS.html)
 
-National course open for PhD students, postdocs, researchers and other employees in need of biostatistical skills within all Swedish universities. The course is geared towards life scientists wanting to be able to understand and use basic statistical and machine learning methods. It would also suit those already applying biostatistical methods but have never got a chance to truly understand the basic statistical concepts, such as the commonly misinterpreted p-value. 
+Using real research examples, the course introduces core ideas of statistical inference and guides participants through widely used models such as regression, mixed-effects models for repeated or hierarchical data, and survival analysis. The course is suitable both for those with limited prior training and for researchers already applying statistical methods who want a stronger conceptual foundation to confidently choose, apply, and interpret statistical analyses in their own work.
 
-[Read more](biostats1.html)
+[Read more](course-STATS.html)
 
-**Next course:** April, 07th - 11th, 2025
+**Next course:** March, 09th - 13th, 2026
 
-<a href="https://uppsala.instructure.com/courses/98820" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/98820</a>
+<a href="https://uppsala.instructure.com/courses/119661" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/119661</a>
 
-
-<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6" target="_blank" rel="noopener noreferrer">
+<a class="new-button" href="https://forms.gle/zEZbaKiFZGTAoLzE7" target="_blank" rel="noopener noreferrer">
     Apply
-    <small>by March, 14th</small>
+    <small>by January, 30th</small>
 </a>
 
 <br>
 
-## [Machine Learning for Life Sciences](biostats2.html)
+## [Machine Learning for Life Sciences](course-ML4LS.html)
 
-This national course is for PhD students, researchers, and university staff in Sweden who want to deepen their skills in biostatistics and machine learning for life sciences. The course builds on basic concepts like hypothesis testing and PCA and moves into more advanced topics. We will cover methods for analyzing complex life science data, including techniques beyond PCA for reducing data dimensions, mixed-effects models for repeated measures, and survival analysis. We will explore classification methods, ensemble techniques, optimization strategies, and PLS methods for analyzing single and multi-omics data. The focus is on practical applications, helping participants apply these tools to real biological datasets.
+The course provides an introduction to machine learning methods and workflows for life science research. It introduces the full end-to-end machine learning (ML) workflow, from data preprocessing and feature engineering to model training, evaluation, interpretation, and reproducible reporting, with a focus on the analysis of complex, high-dimensional biological data. Participants explore biological datasets using unsupervised methods such as dimensionality reduction and clustering, and build predictive models using supervised approaches including linear and tree-based models. Methods for multi-omics integration, including partial least squares (PLS), are introduced together with specialized modeling settings relevant to life sciences, such as mixed-effects models and survival analysis.
 
-[Read more](biostats2.html)
+[Read more](course-ML4LS.html)
 
-**Next course**: June, 09th - 13th, 2025
+**Next course**: May, 4th - 8th, 2026
 
-<a href="https://uppsala.instructure.com/courses/110506" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/110506</a>
+<a href="https://uppsala.instructure.com/courses/122258" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/122258</a>
 
-<a class="new-button" href="https://forms.gle/r4dJPaCd3bojuVbK9" target="_blank" rel="noopener noreferrer noreferrer">
-    Apply
-    <small>by May, 2nd</small>
+<a class="new-button" href="https://forms.gle/kkYNJ4dHfofCZmUz6" target="_blank" rel="noopener noreferrer noreferrer">
+    Register interest
 </a>
-
-
-
